@@ -4,4 +4,4 @@ I love everything about coding and `Github` is a great place to write something,
 
 ### Articles List
 
-* [Complex Interpolation with CAShapeLayer](https://github.com/dymx101/TechBlog/wiki/Complex-Interpolation-with-CAShapeLayer-(Free))
+* [Complex Interpolation with CAShapeLayer](https://github.com/dymx101/TechBlog/wiki/Complex-Interpolation-with-CAShapeLayer)
